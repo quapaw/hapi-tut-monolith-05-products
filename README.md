@@ -18,6 +18,15 @@ I have broken this down into the following steps
 |hapi-tut-monolith-04b-customer|New methods| [04b-customers](https://github.com/quapaw/hapi-tut-monolith-04b-customers)|
 |hapi-tut-monolith-04c-customer|Validation and Error Handling|[04c-customers](https://github.com/quapaw/hapi-tut-monolith-04c-customers)|
 |hapi-tut-monolith-04d-customer|Unit Testing|[04d-customers](https://github.com/quapaw/hapi-tut-monolith-04d-customers)|
+|hapi-tut-monolith-04e-customer|Add Mongo and API Doc|[04e-customers](https://github.com/quapaw/hapi-tut-monolith-04e-customers)|
+|hapi-tut-monolith-05-customer|Combine work with products for full deployment|[05-customers](https://github.com/quapaw/hapi-tut-monolith-05-customers)|
+|**hapi-tut-monolith-05-product**|**Combine work with products for full deployment**|**[05-products](https://github.com/quapaw/hapi-tut-monolith-05-product)**|
+|hapi-tut-monolith-05-main|Combine work with products for full deployment|[05-main](https://github.com/quapaw/hapi-tut-monolith-05-main)|
 
-#HAPI Tutorial - Monolith - 3 - products api service
-Full instructions are listed in [hapi-tut-monolith-02-main](https://github.com/quapaw/hapi-tut-monolith-03-master)
+
+
+
+#HAPI Tutorial - Monolith - 5 - product
+This step updates products api to the same level as the 04a - 04e customers api
+So the 05-products api has been update with same change and customers api
+Look at 05-main to run the full system
