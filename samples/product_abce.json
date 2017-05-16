@@ -1,0 +1,8 @@
+
+  {
+    "id": "abce",
+    "name": "Gold Checking",
+    "description": "Gold Checking - Interest Rate",
+    "minBalance": 500.00,
+    "interestRate": 0.02
+  }

@@ -1,0 +1,7 @@
+  {
+    "id": "abcf",
+    "name": "Platinum Checking",
+    "description": "Platinum Checking - High Interest Rate, Free Checks",
+    "minBalance": 1000.00,
+    "interestRate": 0.04
+  }

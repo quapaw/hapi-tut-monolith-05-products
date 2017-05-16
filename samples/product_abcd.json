@@ -1,0 +1,7 @@
+{
+  "id": "abcd",
+  "name": "Basic Checking",
+  "description": "Basic Checking - no extras",
+  "minBalance": 100.00,
+  "interestRate": 0.00
+}
